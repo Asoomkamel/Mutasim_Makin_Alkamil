@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mutasim Makin Alkamil 👋
 
-<!--
-**Asoomkamel/Asoomkamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Computer & Control Engineer** with expertise in **ROS2**, **Gazebo**, **Java**, **Data Structures**, **AI/ML/DL**, **Embedded Systems**, **IoT**, and **Industrial Automation**. My work focuses on developing innovative solutions at the intersection of robotics, artificial intelligence, and control systems.
 
-Here are some ideas to get you started:
+## 🚀 My Expertise Includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Robotics**: ROS2, Gazebo, Multi-Agent Robotic Systems
+*   **Artificial Intelligence**: AI, Machine Learning (ML), Deep Learning (DL), Data Science (DS)
+*   **Programming**: Java, Python
+*   **Systems**: Embedded Systems, IoT, Industrial Automation
+
+## ✨ Featured Projects & Interests:
+
+I'm actively working on projects involving intelligent automation, robotic control, and data-driven solutions. Explore my repositories to see my work in areas like:
+
+*   **Multi-Agent Robotic Systems**
+*   **AI-powered Prediction Models**
+*   **Industrial Control Systems**
+*   **Embedded Systems Development**
+
+## 🌐 Let's Connect:
+
+I'm always open to discussing new ideas, collaborations, or opportunities. Feel free to connect with me on:
+
+*   [LinkedIn](https://www.linkedin.com/in/mutasim-al-kamil-40a299318)
+*   [Facebook](https://www.facebook.com/share/1ayLALPf92/)
+
+---
+
+*Mutasim Makin Alkamil | معتصم مكين الكامل*
